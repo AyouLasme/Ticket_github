@@ -1,0 +1,11 @@
+
+N
+java:S1854"8Remove this useless assignment to local variable "test".(ğøîÊ
+?
+java:S1481")Remove this unused "test" local variable.(ğøîÊ
+H
+java:S1135"2Complete the task associated to this TODO comment.(¹Ûªº
+E	java:S106$"+Replace this use of System.out by a logger.(œÊìşÿÿÿÿ
+A
+java:S1068
+"+Remove this unused "manager" private field.(·‘û
